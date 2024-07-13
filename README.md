@@ -1,0 +1,1 @@
+File is run by inputting a date into the RaceDay script. There is the option to put in a range of dates towards the bottom of the script. Auto run scrip is the simplest, simply input a range of dates and all data will be scraped for UK and Ire runnes between and including the imputed dates.
